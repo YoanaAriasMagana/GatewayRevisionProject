@@ -28,7 +28,7 @@ body {
 } 
 
 .contact-form {
-  background-image: url("/images/Conimage.webp");
+  background-image: url("images/Conimage.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

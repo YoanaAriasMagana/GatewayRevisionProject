@@ -29,7 +29,7 @@ body {
 } 
 
 .hero-image {
-  background-image: url("/images/Tokyo5.webp");
+  background-image: url("images/Tokyo5.webp");
   background-position: center;
   background-size: cover;
   height: 90%;
